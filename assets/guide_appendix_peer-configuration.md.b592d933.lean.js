@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as a}from"./app.5cbb4beb.js";const f='{"title":"Peer Configuration","description":"","frontmatter":{},"headers":[],"relativePath":"guide/appendix/peer-configuration.md","lastUpdated":1646223014000}',n={},r=a("",2),c=[r];function d(i,s,_,h,p,u){return t(),o("div",null,c)}var g=e(n,[["render",d]]);export{f as __pageData,g as default};

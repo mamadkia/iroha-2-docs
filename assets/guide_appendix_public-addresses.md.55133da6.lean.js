@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as a}from"./app.5cbb4beb.js";const m='{"title":"Iroha public addresses","description":"","frontmatter":{},"headers":[],"relativePath":"guide/appendix/public-addresses.md","lastUpdated":1646223014000}',i={},s=a("",2),n=[s];function r(c,d,h,u,l,p){return t(),o("div",null,n)}var g=e(i,[["render",r]]);export{m as __pageData,g as default};

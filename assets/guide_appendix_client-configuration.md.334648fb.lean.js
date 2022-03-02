@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as a}from"./app.5cbb4beb.js";const f='{"title":"Client Configuration","description":"","frontmatter":{},"headers":[],"relativePath":"guide/appendix/client-configuration.md","lastUpdated":1646223014000}',i={},n=a("",2),r=[n];function c(s,d,l,h,u,p){return t(),o("div",null,r)}var g=e(i,[["render",c]]);export{f as __pageData,g as default};

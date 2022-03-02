@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.5cbb4beb.js";const d='{"title":"Genesis Block","description":"","frontmatter":{},"headers":[],"relativePath":"guide/appendix/genesis.md","lastUpdated":1646223014000}',o={},p=l("",3),e=[p];function t(c,r,y,i,u,F){return a(),n("div",null,e)}var A=s(o,[["render",t]]);export{d as __pageData,A as default};

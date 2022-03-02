@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as a}from"./app.5cbb4beb.js";const f='{"title":"Logger","description":"","frontmatter":{},"headers":[],"relativePath":"guide/appendix/logger.md","lastUpdated":1646223014000}',s={},n=a("",2),i=[n];function r(c,d,l,g,u,h){return t(),o("div",null,i)}var m=e(s,[["render",r]]);export{f as __pageData,m as default};

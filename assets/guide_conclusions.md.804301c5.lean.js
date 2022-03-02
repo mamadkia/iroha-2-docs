@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,d as r}from"./app.5cbb4beb.js";const m='{"title":"Conclusions","description":"","frontmatter":{},"headers":[],"relativePath":"guide/conclusions.md","lastUpdated":1646223014000}',a={},i=r("",5),n=[i];function s(d,h,l,c,p,u){return o(),t("div",null,n)}var g=e(a,[["render",s]]);export{m as __pageData,g as default};
